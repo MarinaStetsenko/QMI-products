@@ -1,23 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600;800&display=swap');
-
-:root {
- font-family: 'Inter', sans-serif;   
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600;800 &display=swap');:root {
+    font-family: 'Inter', sans-serif;
 }
 
 /* Main banner */
 #home {
-  display: block;
-  text-align: left;
-  padding: 14px 16px;
-  color: rgb(255,255,255);
-  font-size: 1.2em;
-  font-weight: 600;
+    display: block;
+    text-align: left;
+    padding: 14px 16px;
+    color: rgb(255, 255, 255);
+    font-size: 1.2em;
+    font-weight: 600;
 }
 
-.header-menu div a:hover {  
+.header-menu div a:hover {
 
-    color: rgb(31,92,138);
-    transition: color .16s linear;
+    color: rgb(31, 92, 138);
+    transition: color 0.16s linear;
 }
 
 .header-contacts {
@@ -40,8 +38,8 @@ h2 {
 
 /* Titles and Subtitles */
 h3 {
-  font-size: 3em;
-  color: rgb(31,92,138);  
+    font-size: 3em;
+    color: rgb(31, 92, 138);
 }
 
 h4 {
@@ -50,5 +48,5 @@ h4 {
 }
 /* Background */
 main {
-    background-color: rgb(235,235,235);
+    background-color: rgb(235, 235, 235);
 }
